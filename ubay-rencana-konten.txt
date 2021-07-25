@@ -4,6 +4,7 @@ RENCANA KONTEN UBAY
   * ES6
   * FrameWork JS
     * Vue 
+    * React
  - Struktur Dasar Data
 - PHP FrameWork
  * Laravel
