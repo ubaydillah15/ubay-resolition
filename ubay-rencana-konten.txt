@@ -1,6 +1,7 @@
 RENCANA KONTEN UBAY
 - JavaScript 
   *ES6
+ -Struktur Data Dasar
   *FrameWork JS
 - PHP FrameWork
 - Interview
