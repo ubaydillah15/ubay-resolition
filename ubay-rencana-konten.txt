@@ -1,0 +1,6 @@
+RENCANA KONTEN UBAY
+- JavaScript 
+  *ES6
+  *FrameWork JS
+- PHP FrameWork
+- Interview
